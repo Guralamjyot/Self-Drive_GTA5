@@ -1,5 +1,5 @@
 # Introduction 
-It started as a hands-on project with some parctical goal in mind, along with the intent of learning I/O functionality of python on linux. As it progressed, it turned form a CNN based classification problem a ViT one, with the intuition that a ViT would be able to "Attend" to different objects according to their position on the screen,
+It started as a hands-on project with some parctical goal in mind, along with the intent of learning I/O functionality of python on linux. As it progressed, it turned from a CNN based classification problem a ViT one, with the intuition that a ViT would be able to "Attend" to different objects according to their position on the screen,
 leading to a better judgement by the AI and overall a better performing model, along with the better performance of transformers as compared to CNNs it was an obvious choise(my training time was reduced to half as compared to using a Resnet_101). Also, trying to get the model to converge without any transfer learning was an almost impossible task, with the model refusing to go below a satisfactory loss
 or accuracy.
 
